@@ -15,4 +15,13 @@ docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 docker.elastic.co/kibana/kibana:8.17.0
 #neo4j:5.26.0-community-bullseye
 tomcat:8
-openresty/openresty
+openresty/openresty:1.21.4.1
+whyour/canal-server
+apache/rocketmq
+kafka
+druid
+mongo
+grafana/grafana
+prom/prometheus
+prom/alertmanager
+prom/node-exporter
