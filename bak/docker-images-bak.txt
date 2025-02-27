@@ -11,6 +11,7 @@ nacos/nacos-server:v2.4.3
 kubesphere/ks-installer:v3.4.1
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
+elasticsearch:7.17.28
 
 
 
