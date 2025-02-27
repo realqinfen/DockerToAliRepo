@@ -5,9 +5,8 @@ tomcat:8
 
 apache/rocketmq:5.1.4
 
-apache/rocketmq-namesrv:5.1.4
+
 nacos/nacos-server:v2.4.3
-nacos/nacos-server:v2.1.0
 
 kubesphere/ks-installer:v3.4.1
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
