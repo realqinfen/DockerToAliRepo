@@ -15,8 +15,7 @@ docker.elastic.co/elasticsearch/elasticsearch:8.17.0
 elasticsearch-analysis-ik:8.17.0
 elasticsearch-analysis-ik-smartcn:8.17.0
 elasticsearch-analysis-ik-max-word:8.17.0
-docker.elastic.co/kibana/kibana:8.17.0
-elastic/filebeat:8.17.0
+
 docker.elastic.co/logstash/logstash:8.17.0
 zookeeper:3.8.2
 
