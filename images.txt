@@ -4,7 +4,7 @@ nginx:1.27.2
 tomcat:8
 
 apache/rocketmq:5.1.4
-apache/rocketmq-console:2.0.0
+
 apache/rocketmq-namesrv:5.1.4
 nacos/nacos-server:v2.4.3
 nacos/nacos-server:v2.1.0
