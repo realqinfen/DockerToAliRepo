@@ -2,7 +2,7 @@ hello-world
 
 nginx:1.27.2
 tomcat:8
-openresty/openresty:1.21.4.1
+
 apache/rocketmq:5.1.4
 apache/rocketmq-console:2.0.0
 apache/rocketmq-namesrv:5.1.4
