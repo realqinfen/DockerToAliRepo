@@ -11,17 +11,12 @@ nacos/nacos-server:v2.4.3
 kubesphere/ks-installer:v3.4.1
 docker.elastic.co/elasticsearch/elasticsearch-wolfi:8.17.0
 docker.elastic.co/elasticsearch/elasticsearch:8.17.0
-kibana:8.17.0
-logstash:8.17.0
+
 
 
 openresty/openresty:1.25.3.1-20250220
 zookeeper:3.8.2
 
-grafana/grafana
-prom/prometheus
-prom/alertmanager
-prom/node-exporter
 
 redis:7.4.1
 mysql:8.4.3
