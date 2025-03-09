@@ -1,1 +1,1 @@
-mongo:4.4.10
+seataio/seata-server:1.6.1
