@@ -1,1 +1,2 @@
-seataio/seata-server:1.0.0
+apache/rocketmq:4.8.0
+pangliang/rocketmq-console-ng
