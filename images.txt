@@ -1,1 +1,1 @@
-seataio/seata-server:1.6.1
+seataio/seata-server:1.0.0
